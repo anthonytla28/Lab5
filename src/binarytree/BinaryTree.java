@@ -7,7 +7,7 @@ import java.io.File;
 public class BinaryTree {
 
     /*
-    Below you will see the construction of a node class that uses the song title 
+    Below you will see the construction of a node class that uses the song title
     as the key element.
      */
     class Node {
@@ -21,20 +21,20 @@ public class BinaryTree {
         }
     }
 
-    // Root of the binary tree 
+    // Root of the binary tree
     Node root;
 
-    // Constructor for the binary tree 
+    // Constructor for the binary tree
     BinaryTree() {
         root = null;
     }
 
-    // This method mainly calls insert() method below 
+    // This method mainly calls insert() method below
     void insert(String title) {
         root = insert(root, title);
     }
 
-    /* Below is a recursive funtion that will insert 
+    /* Below is a recursive funtion that will insert
     the nodes into the binary tree*/
     Node insert(Node root, String title) {
 
@@ -58,14 +58,14 @@ public class BinaryTree {
     }
 
     /*
-    This mehthod after being called traveserses through the tree in an inorder 
+    This mehthod after being called traveserses through the tree in an inorder
     path and then also prints out the tree
      */
-    void inorderRec(Node root) {
-
+    void inorderRec(Node root) FileNotFoundException {
+      PrintStream ps = new PrintStream("PlaylistSorted.txt");
         if (root != null) {
             inorderRec(root.left);
-            System.out.println(root.key);
+            ps.println(root.key);
             inorderRec(root.right);
         }
 
