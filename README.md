@@ -2,7 +2,7 @@
 
 By: Anthony Tlatenchi
 
-This program is designed to read in a csv fill from Spotify charts the one I chose is a viral 50 chart from the week of August 27 of this year which is same file used in Lab2. Using this csv file the program takes on the task of receiving all the artist that appear and sending those results to a output file sorted alphabetically and with no duplicates. The difference between this weeks Lab3 and Lab2 is the way the elements are being stored. In Lab2 we used an array to store the artist names but in Lab3 you will see the implementation of linked list in order to store the artist names.
+This program is designed to read in multiple csv files from Spotify charts the ones I chose are from the viral 50 chart from the weeks of September 3rd and October 8th of this year. Using the csv files the program takes on the task of receiving all the songs that appear and creates an array of the song titles. With the array of song titles the program then displays the songs to the user asking him to choose a start and end to his playlist based on position creating a subset of all the songs. Then with the start and end position number the program implements a binary search tree using the song title as a key to create a playlist. 
 
 
 **Installation**
