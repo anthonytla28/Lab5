@@ -1,0 +1,50 @@
+1,Mad at Disney,salem ilese,https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE
+2,WAP (feat. Megan Thee Stallion),Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+3,Mood (feat. iann dior),24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+4,3 Musketeers,NextYoungin,https://open.spotify.com/track/57Oi4yqY27uJzCyqFWIP5q
+5,Backyard Boy,Claire Rosinkranz,https://open.spotify.com/track/0QpOqKz66ZxHNqj2PPHiFF
+6,F2020,Avenue Beat,https://open.spotify.com/track/7opTGnWVJcm1e5mWWOldpg
+7,Ashes,Stellar,https://open.spotify.com/track/2NeyJbL3ROKCjRkAjs77ya
+8,Eyes Blue Like The Atlantic (feat. Subvrbs),Sista Prod,https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1
+9,my ex's best friend (with blackbear),Machine Gun Kelly,https://open.spotify.com/track/70rFIfYN7lU6iTgUIVP42w
+10,Hawái,Maluma,https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp
+11,Overwhelmed,Royal & the Serpent,https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y
+12,Heather,Conan Gray,https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA
+13,Banks,NEEDTOBREATHE,https://open.spotify.com/track/49UfoZosKBdiE9D1aR3ErY
+14,Stuck in the Middle,Tai Verdes,https://open.spotify.com/track/2HQPOVBAOU2EBTy1nBGRiW
+15,DDLG,ppcocaine,https://open.spotify.com/track/42dtq3bqOCzD0L2kITk4Dp
+16,Brace Yourself,zenorachi,https://open.spotify.com/track/6YMjTao59i1kRdmYlB33N8
+17,Just About Over You,Priscilla Block,https://open.spotify.com/track/6VzJCMOzVbvb25LPYQviM5
+18,PJ,ppcocaine,https://open.spotify.com/track/1qxnmVbl8To9W9BcbTS8yC
+19,Coochie,YN Jay,https://open.spotify.com/track/2UM09BKxJ3NM8qNxzNSdXV
+20,Surf Swag,Lil Wayne,https://open.spotify.com/track/56ehF3tXMjwLJkAmuKzRE2
+21,Put Your Records On,Ritt Momney,https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K
+22,Such a Whore (Stellular Remix),JVLA,https://open.spotify.com/track/6A25J9As7towpxovYryAWr
+23,Hai Domo,Cao White,https://open.spotify.com/track/5vOwis62qEz4avzkppHHL5
+24,Buss It,Erica Banks,https://open.spotify.com/track/6NWdgyVsjp2bJ11PToXCr1
+25,Pussy Talk,City Girls,https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9
+26,Mood Swings (feat. Lil Tjay),Pop Smoke,https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm
+27,blind,ROLE MODEL,https://open.spotify.com/track/6d1ffV5RisInvrDxkLgBxe
+28,Mr Loverman,Ricky Montgomery,https://open.spotify.com/track/0MF5QHFzTUM2dYm6J7Vngt
+29,Head & Heart (feat. MNEK),Joel Corry,https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
+30,Smile (with The Weeknd),Juice WRLD,https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF
+31,TWIST & TURN (feat. Drake & PARTYNEXTDOOR),Popcaan,https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6
+32,Things A Man Oughta Know,Lainey Wilson,https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx
+33,Still Don't Know My Name,Labrinth,https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV
+34,Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie",Tainy,https://open.spotify.com/track/1pqnQ41XbfKjaFu6M0eGJp
+35,Heat Waves,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+36,Douha (Mali Mali),Disclosure,https://open.spotify.com/track/33J9lmeViWXN0Le0vWRyjc
+37,Shoes,Lil Wayne,https://open.spotify.com/track/5yHevmbP3PEex0kxP2cBc5
+38,Mi Cuarto,Jerry Di,https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ
+39,Monte Carlo,Remi Wolf,https://open.spotify.com/track/3CXCtE8qJIFtUJJZRKCcXC
+40,You Got It,Vedo,https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8
+41,Be Like That - feat. Swae Lee & Khalid,Kane Brown,https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ
+42,Wildfire,Nate Smith,https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN
+43,Pain,Nessa Barrett,https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA
+44,Kismet,XIX,https://open.spotify.com/track/24hPnL2Yr82INEk0YUWCJr
+45,Save Me,Jelly Roll,https://open.spotify.com/track/5ShenzydHxkHm8w6vdJxMT
+46,you broke me first,Tate McRae,https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR
+47,Muwop (feat. Gucci Mane),Mulatto,https://open.spotify.com/track/231WYcXWUxYSx79tuPtzBk
+48,Cowpoke,Colter Wall,https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F
+49,Obnimi (Callmearco Remix),Okean Elzi,https://open.spotify.com/track/1ZbJScG0Dr74y1hvgDneYm
+50,For The Night (feat. Lil Baby & DaBaby),Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S
